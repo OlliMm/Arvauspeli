@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
+  body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
